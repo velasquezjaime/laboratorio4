@@ -10,7 +10,7 @@
     <div class="container-xxl" style="width:600px; margin: 0 auto;">
     <h1>Cálculo de la Depreciación</h1>
     <fieldset>
-    <legend> Porcentaje estudiantes </legend>
+    <legend> Depreciación </legend>
     <form name="sumar" action="index.php" method="post">
     <p>Ingrese el precio original: <input type="number" name="og" /></p>
     <p>Ingrese la vida útil: <input type="number" name="vu" /></p>

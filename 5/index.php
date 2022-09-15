@@ -29,7 +29,7 @@
 <div class="container-xxl" style="width:500px; margin 0 auto;">
 <form name="sumar" action="index.php" method="post">
     <p style="text-align:center">Ingrese el mensaje que desea desplegar: <input type="text" name="texto" /></p>
-    <p style="text-align:center"><button type="button" class="btn btn-success">Enviar</button></p>
+    <p style="text-align:center"><input type="submit" name="sumar" value="Enviar"/></p>
     
     </form>
 

@@ -13,7 +13,7 @@
     <form name="sumar" action="index.php" method="post">
     <p>Ingrese la contraseña a cifrar: <input type="text" name="pass" /></p>
     <p>Ingrese el salt: <input type="text" name="salt" /></p>
-    <p style="text-align:center"><input type="submit" name="sumar" value="Calcular" /></p>
+    <p style="text-align:center"><input type="submit" name="sumar" value="Mostrar" /></p>
     </form>
     </fieldset>
 </div>
